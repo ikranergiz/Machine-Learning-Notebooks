@@ -1,0 +1,8 @@
+# images
+*.img
+*.png
+*.jpg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
