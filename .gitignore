@@ -6,3 +6,6 @@ photos/
 
 # Jupyter Notebook
 .ipynb_checkpoints/
+
+# csv files
+*.csv
