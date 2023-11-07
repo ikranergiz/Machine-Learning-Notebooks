@@ -1,5 +1,4 @@
 # images
-photos/
 *.img
 *.png
 *.jpg
@@ -9,3 +8,6 @@ photos/
 
 # csv files
 *.csv
+
+# joblib files
+*.joblib
